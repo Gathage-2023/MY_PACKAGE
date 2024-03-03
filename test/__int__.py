@@ -1,1 +1,2 @@
-from.mypackageimport myModule.py
+from mypackage import myModule
+
